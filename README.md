@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a scalable and user-customizable chat widget for  <a href="https://linkedin.com/in/https://www.wesparkle.co" target="blank">wesparkle</a>  and their member businesses**
 
-- 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="[https://linkedin.com/in/https://www.wesparkle.co](https://www.codepath.org/)" target="blank">CodePath</a> course**
+- 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="https://www.codepath.org/" target="blank">CodePath</a> course**
 
 - 👩🏽‍💻 All of my projects are available at [fatimahmohammed.com](fatimahmohammed.com)
 
