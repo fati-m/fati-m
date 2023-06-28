@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="https://www.codepath.org/" target="_blank"
                 rel="noreferrer">CodePath</a> course**
 
-- 👩🏽‍💻 All of my projects are available at [fatimahmohammed.com](fatimahmohammed.com)
+- 👩🏽‍💻 For more info on my projects and experience, check out my <a href="https://fatimahmohammed.com" target="_blank"
+                rel="noreferrer">portfolio site</a>
 
 - 📫 How to reach me **LinkedIn or email**
 
