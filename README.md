@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fatimah</h1>
+<h1 align="center">Hi 👋🏽, I'm Fatimah</h1>
 <h3 align="center">I'm a student developer based in Madison, WI who is passionate about full stack development.</h3>
 
 - 🔭 I’m currently working onilding a scalable a user customizable web chat widget for wesparkle **building a scalable and user customizable chat widget for wesparkle and their member businesses**
 
 - 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a code path course**
 
-- 👨‍💻 All of my projects are available at [fatimahmohammed.com](fatimahmohammed.com)
+- 👩🏽‍💻 All of my projects are available at [fatimahmohammed.com](fatimahmohammed.com)
 
 - 📫 How to reach me **LinkedIn or email**
 
