@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Fatimah</h1>
 <h3 align="center">I'm a student developer based in Madison, WI who is passionate about full-stack development.</h3>
 
-- 🔭 I’m currently working on building a scalable, user-customizable web chat widget for <a href="https://linkedin.com/in/https://www.wesparkle.co" target="blank">wesparkle</a> **building a scalable and user-customizable chat widget for wesparkle and their member businesses**
+- 🔭 I’m currently working on **building a scalable and user-customizable chat widget for  <a href="https://linkedin.com/in/https://www.wesparkle.co" target="blank">wesparkle</a>  and their member businesses**
 
-- 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a code path course**
+- 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="[https://linkedin.com/in/https://www.wesparkle.co](https://www.codepath.org/)" target="blank">CodePath</a> course**
 
 - 👩🏽‍💻 All of my projects are available at [fatimahmohammed.com](fatimahmohammed.com)
 
