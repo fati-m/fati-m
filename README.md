@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Fatimah</h1>
 <h3 align="center">I'm a student developer based in Madison, WI who is passionate about full-stack development.</h3>
 
-- 🔭 I’m currently working on **building a scalable and user-customizable chat widget for  <a href="https://linkedin.com/in/https://www.wesparkle.co" target="blank">wesparkle</a>  and their member businesses**
+- 🔭 I’m currently working on **building a scalable and user-customizable chat widget for  <a href="https://linkedin.com/in/https://www.wesparkle.co" target="_blank"
+                rel="noreferrer">wesparkle</a>  and their member businesses**
 
-- 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="https://www.codepath.org/" target="blank">CodePath</a> course**
+- 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="https://www.codepath.org/" target="_blank"
+                rel="noreferrer">CodePath</a> course**
 
 - 👩🏽‍💻 All of my projects are available at [fatimahmohammed.com](fatimahmohammed.com)
 
@@ -11,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fatimah-mohammed-97b37b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatimah-mohammed-97b37b23b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fatimah-mohammed-97b37b23b/" target="_blank"
+                rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatimah-mohammed-97b37b23b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
