@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Fatimah</h1>
 <h3 align="center">I'm a student developer based in Madison, WI who is passionate about full-stack development.</h3>
 
-- 🔭 I’m currently working on **building a scalable and user-customizable chat widget for  <a href="https://linkedin.com/in/https://www.wesparkle.co" target="_blank"
+- 🔭 I’m currently working on **building a scalable and user-customizable chat widget for  <a href="https://www.wesparkle.co" target="_blank"
                 rel="noreferrer">wesparkle</a>  and their member businesses**
 
 - 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="https://www.codepath.org/" target="_blank"
