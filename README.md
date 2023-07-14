@@ -10,7 +10,7 @@
 - 👩🏽‍💻 For more info on my projects and experience, check out my <a href="https://fatimahmohammed.com" target="_blank"
                 rel="noreferrer">portfolio site</a>
 
-- 📫 How to reach me **LinkedIn or email**
+- 📫 How to reach me? **LinkedIn or email**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
