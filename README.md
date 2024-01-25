@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Fatimah</h1>
 <h3 align="center">I'm a student developer based in Madison, WI who is passionate about full-stack development.</h3>
 
-- 🌱 I’m currently learning **python and sharpening my skills in data structures and algorithms in a <a href="https://www.codepath.org/" target="_blank"
-                rel="noreferrer">CodePath</a> course**
-
 - 👩🏽‍💻 For more info on my projects and experience, check out my <a href="https://fatimahmohammed.com" target="_blank"
                 rel="noreferrer">portfolio site</a>
 
